@@ -1,0 +1,28 @@
+C:\Users\Cotre\Desktop\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cotre\Desktop\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.AssemblyInfoInputs.cache
+C:\Users\Cotre\Desktop\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.AssemblyInfo.cs
+C:\Users\Cotre\Desktop\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.csproj.CoreCompileInputs.cache
+C:\Users\Cotre\Desktop\TagScreenSystem\bin\Debug\net10.0\TagScreenSystem.exe
+C:\Users\Cotre\Desktop\TagScreenSystem\bin\Debug\net10.0\TagScreenSystem.deps.json
+C:\Users\Cotre\Desktop\TagScreenSystem\bin\Debug\net10.0\TagScreenSystem.runtimeconfig.json
+C:\Users\Cotre\Desktop\TagScreenSystem\bin\Debug\net10.0\TagScreenSystem.dll
+C:\Users\Cotre\Desktop\TagScreenSystem\bin\Debug\net10.0\TagScreenSystem.pdb
+C:\Users\Cotre\Desktop\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.dll
+C:\Users\Cotre\Desktop\TagScreenSystem\obj\Debug\net10.0\refint\TagScreenSystem.dll
+C:\Users\Cotre\Desktop\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.pdb
+C:\Users\Cotre\Desktop\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.genruntimeconfig.cache
+C:\Users\Cotre\Desktop\TagScreenSystem\obj\Debug\net10.0\ref\TagScreenSystem.dll
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\bin\Debug\net10.0\TagScreenSystem.exe
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\bin\Debug\net10.0\TagScreenSystem.deps.json
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\bin\Debug\net10.0\TagScreenSystem.runtimeconfig.json
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\bin\Debug\net10.0\TagScreenSystem.dll
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\bin\Debug\net10.0\TagScreenSystem.pdb
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.AssemblyInfoInputs.cache
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.AssemblyInfo.cs
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.csproj.CoreCompileInputs.cache
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.dll
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\obj\Debug\net10.0\refint\TagScreenSystem.dll
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.pdb
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\obj\Debug\net10.0\TagScreenSystem.genruntimeconfig.cache
+C:\Users\JARTO\OneDrive\Рабочий стол\TagScreenSystem\obj\Debug\net10.0\ref\TagScreenSystem.dll
